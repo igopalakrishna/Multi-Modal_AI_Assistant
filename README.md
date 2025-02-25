@@ -1,4 +1,4 @@
-# Project Title
+# Multi-Modal AI Assitant
 
 A Python-based application utilizing OpenAI, Gradio, and other libraries for AI-driven functionalities.
 
