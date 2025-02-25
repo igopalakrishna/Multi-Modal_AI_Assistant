@@ -1,0 +1,9 @@
+Pillow
+
+dotenv
+gradio
+
+json
+openai
+os
+pydub
